@@ -1,2 +1,2 @@
-# dotnet-react-fullstack
-Curso Fullstack dotnet with reactjs
+# Curso Fullstack dotnet con reactjs
+Este curso de Fullstack dotnet con reactjs
